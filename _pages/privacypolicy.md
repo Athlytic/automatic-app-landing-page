@@ -4,57 +4,78 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
-
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Through the Athlytic app available in the App Store by Myndarc, LLC, may provide you with access to varied user-generated and other content and interactive and informational resources (collectively, “Services”). This Privacy Policy sets forth our policies with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from you when using the Services.
 
 <br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## Information We Collect
+When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:  Personal Data That You Provide Through the Services: We collect Personal Data from you when you voluntarily choose to provide such information such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever we collect Personal Data we make an effort to provide a link to this Privacy Policy. By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data through the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to our offices and servers or those of our affiliates or contractors located in the United States and other countries. However, we will cease using your Personal Data once you cancel or terminate your registration for the Services..
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+### Loction Data
+The Services include various location-based features, such as mapping outdoor fitness activities. To provide these location-based features, Athlytic and our partners and licensees may collect, use and share precise location data, including the real-time geographic location of your mobile device.  We will never share any of your information unless you specifically authorize us to share it with friends and other users in a future feature.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+### Apple Health Data
+Myndarc mobile applications may use data derived from Apple’s HeathKit Framework.  Users will be required to authorize any apps that require data from Apple Health.  Once authorized, we may store Health data, including, but not limited to, workout, heart beat, measurements and any and all other data made available by Apple Health, for purposes of of providing our users with a better mobile experience.  We will not share any of this information with any third party unless authorized by you to do so.  At any time, a user who has given prior authorization may revoke access to the individual app’s use of health information by going to settings and revoking access.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## Other Information
+Non-Identifiable Data: When you utilize the Services, we may receive certain personally non-identifiable information about your use of the Services. Such information, which may be collected passively using various technologies, or via submission of data by fitness devices you have configured to work with the Services, cannot presently be used to specifically identify you. We may store such information ourselves or it may be included in databases owned and maintained by our affiliates, agents or service providers. We may use such information and pool it with other information to track, for example, the total number of visitors to the Services, the number of visitors to each page of the Services, and the domain names of our visitors’ Internet service providers. It is important to note that no Personal Data is available or used in this process.  In providing the Services, we may use cookies. A cookie is a piece of information that the computer or computers that host our Services give to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze usage of the Services more accurately. For instance, our Services may set a cookie on your browser that keeps you from needing to remember and then enter a password more than once during a visit to the site. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Services’ features.  Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Services, we may conduct research on our end user’s demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and we may share this aggregated data with our affiliates, agents and business partners. This aggregate information does not identify you personally. We may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+### Our Use of Your Personal Data and Other Information
+We will use the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide access to such services and to monitor your use of such services. We may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. We may use this information to contact you in the future to tell you about services we believe will be of interest to you.  We will communicate with you through email and notices posted via the Services. These communications may include a series of welcome emails which help inform you about various features of the Services. Please be aware that you will always receive certain emails from us related to the proper functioning of your account. We may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please click the “unsubscribe” link at the bottom of the email.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## Our Disclosure of Your Personal Data and Other Information
+There are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, including as set forth below:  Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a sale, merger, reorganization, dissolution or similar event relating to all or a portion of our business or assets, Personal Data may be part of the transferred assets. Service Providers, Agents and Related Third Parties: We sometimes hire other companies to perform certain business-related functions. Examples include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we may need to provide them with access to certain Personal Data. However, we only provide them with the information that they need to perform their specific function, and these third party service providers will only use your Personal Data to perform the services requested by us. Legal Requirements: We may also disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend our rights or property, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## Your Choices
+You can use the Services without providing any Personal Data, however, you may not be able to use certain features of the Services.  When You sign up for our Services, we ask you to provide Personal Data. If we want to use this Personal Data in a manner different than the purpose for which it was collected, we will ask for your consent prior to doing so. If we propose to use Personal Data for any purposes other than those described in this Policy and/or in the specific notice provided when you sign up for a certain component of our Services, we will offer you an effective way to opt out of our use of your Personal Data for those other purposes.
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## Exclusions
+This Privacy Policy shall not apply to any unsolicited information you provide to us. This includes, but is not limited to, information posted to any public areas of our web site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing services, and other unsolicited submissions (collectively, “Unsolicited Information”), including all User Content, as that term is defined in our Terms of Use, that by its nature is accessible or intended to be accessible to other users of the Services. All such Unsolicited Information shall be deemed to be non-confidential and we shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. Please also note that any Personal Data or other information you provide to be displayed in your publicly available online profile will be displayed for others to see and thus will not be subject to the terms of this Privacy Policy. We cannot and will not be responsible for what third parties do with any Personal Data or other information that you choose to make publicly available. As such, we advise that you exercise great care in determining what information you choose to make publicly available through the Services.
+
+<br>
+
+## Links to Other Websites
+This Privacy Policy applies only to the Services. The Services may frame or contain references or links to other websites not operated or controlled by us (the “Third Party Services”). The policies and procedures we described here do not apply to the Third Party Services. The links from the Services do not imply our review or endorsement of the Third Party Services. We suggest contacting those sites directly for information on their privacy policies.
+
+<br>
+
+## Links to Other Websites
+We take reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. These steps include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store Personal Data. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from the Services may not be secure. Therefore, you should therefore take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to us via the Internet.  We restrict access to Personal Data to our employees, contractors and agents who need to know that information in order to operate, develop or improve our Services. These individuals are bound by confidentiality obligations and may be subject to discipline if they fail to meet those obligations.
+
+<br>
+
+## Data Integrity
+We process Personal Data only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the Personal Data needed to provide or improve our Services. We take reasonable steps to ensure that the Personal Data we process is accurate, complete, and current, but we depend on our users to update or correct their Personal Data whenever necessary.
+
+<br>
+
+## Enforcement
+We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or our treatment of Personal Data by contacting us through this web site. When we receive formal written complaints, it is our policy to contact the complainant regarding his or her concerns.
+
+
+<br>
+
+## Changes to Our Privacy Policy
+The Services we offer may change from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. Accordingly, we reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy."
+
+
+<br>
+
+## Access to Information
+We strive to keep your Personal Data accurately recorded. Through the Services, we provide you with access to update your profile and revise Personal Data previously submitted to the Services.
+
+<br>
+
+## Contacting Us
+If you have any additional questions or concerns about this Policy or our information practices, please feel free to contact us at any time at athlytic@gmail.com.
