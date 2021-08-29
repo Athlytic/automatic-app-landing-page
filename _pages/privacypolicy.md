@@ -8,7 +8,7 @@ include_in_header: false
 
 # Privacy Policy
 <br>
-## Our Policy
+# Our Policy
 Through the Athlytic website and related mobile applications available in the App Store by Myndarc, LLC, may provide you with access to varied user-generated and other content and interactive and informational resources (collectively, “Services”). This Privacy Policy sets forth our policies with respect to information including personally identifiable data (“Personal Data”) and other information.
 
 <br>
