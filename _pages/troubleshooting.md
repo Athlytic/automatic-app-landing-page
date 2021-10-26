@@ -35,7 +35,7 @@ We also recommend that you are consistent with whether you chose to (1) do a mor
 Recovery in Athlytic is 100% physiological based on your HRV and resting heart rate.  Athlytic does not use sleep to factor into Recovery.  The reason for this is that even if you were to get only 5 hours of sleep last night, if your body is signaling that is has fully recovered from yesterday’s workout, we don’t feel we should artificially reduce recovery just because you didn’t sleep well.  Recovery cannot however factor in soreness from a workout.  At this point there is simply no good technical way to measure muscle soreness from your wrist.  So our best advice is always listen to your body first when deciding how to train and then use a Recovery tool like Athlytic.
 
 ### Recovery Days are Missing 
-Thanks for reaching out, you could be missing Recovery from a day if the Apple Watch didn’t take an HRV for a given day.  You can see your HRV samples by going into the Apple Health App (white icon with a heart) then Browse -> Heart Rate Variability -> scroll to the bottom and tap on Show All Data, and see if you have an HRV from the day that is missing.  If you are missing an HRV from the given day, you may have not worn your Apple Watch long enough to receive an HRV reading.
+You could be missing Recovery from a day if the Apple Watch didn’t take an HRV for a given day.  You can see your HRV samples by going into the Apple Health App (white icon with a heart) then Browse -> Heart Rate Variability -> scroll to the bottom and tap on Show All Data, and see if you have an HRV from the day that is missing.  If you are missing an HRV from the given day, you may have not worn your Apple Watch long enough to receive an HRV reading.
 
 ## Sleep
 
