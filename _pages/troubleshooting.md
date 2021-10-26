@@ -117,7 +117,7 @@ Finally if nothing else seems to work please try these steps: (1) go back to Set
 To save battery life, Apple limits apps to only being able to update complications 4 times per hour (or every 15 minutes).  Because of this, sometimes it is necessary to tap on the complication to open the app which will force a complication update.  You can see this same behavior with Apple’s Weather app where the temperature might not update until you tap on it.  However if you are noticing the complication isn’t updating even after an hour or so please let me know.  
 
 ## Getting Recovery HRV RHR on IPHONE BUT NOT WATCH
- Check that you have not disabled wrist detection, if so it will prevent heart rate tracking, see here: 
+Check that you do not have Wrist Detection turned off on the watch.  Open the settings app on the Apple Watch, tap Passcode and see if Wrist Detection is off.  Turning off Wrist Detection will prevent the Apple Watch from tracking Heart Rate so turn it back on. See more here: 
 
 Turning off wrist detection affects these Apple Watch features:
 
