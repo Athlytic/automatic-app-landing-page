@@ -123,6 +123,8 @@ If that alone doesn’t help the watch pick up the subscription, can you please 
 
 Finally if nothing else seems to work please try these steps: (1) go back to Settings, then tap on your name at the top, then tap on iCloud and turn off iCloud for Athlytic, then turn it back on.  Then (2) Power the watch down and on again.  👈 This usually solves most sync issues with subscriptions on the watch.  
 
+Also try this: If you go to Settings on the iPhone and then General then Background App Refresh, do you have Background App Refresh turned on at the top, and then is Athlytic's switch turned on? 
+
 ## Complication Not Updating
 To save battery life, Apple limits apps to only being able to update complications 4 times per hour (or every 15 minutes).  Because of this, sometimes it is necessary to tap on the complication to open the app which will force a complication update.  You can see this same behavior with Apple’s Weather app where the temperature might not update until you tap on it.  However if you are noticing the complication isn’t updating even after an hour or so please let me know.  
 
