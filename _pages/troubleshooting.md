@@ -24,6 +24,18 @@ Check if you might not have an HRV reading from the past day.  You can see your 
 ### Why does Recovery Change Throughout the Day?
 Athlytic will use your your average sleeping HRV or an HRV that was sampled during a morning Breathe App Session for your Recovery each day.  However, Apple treats resting heart rate (RHR) differently.  The Apple Watch will save 1 single RHR each day and update it throughout the day (as opposed to saving multiple samples like it does with HRV, you can see this yourself by going into the Apple Health App then Browse then Heart).  Because of this there may be slight variations in Recovery throughout the day, e.g. you wake up and your RHR is 55, then at 2pm, it’s 53, Recovery will increase slightly.  Most of the time our RHR values do not change too dramatically to make a large difference in Recovery.  There has been some discussion in our Athlytic community and whether Athlytic should for example just calculate it’s own RHR, e.g. during sleep.  I am against this for a few reasons (1) I’m sure Apple being the largest company in the world has good technology based on what they think your RHR is, I also think users would be confused why Apple Health said their RHR was different than Athlytic.  More importantly (2) I personally feel that if I wake up and my Recovery is set, but then right before the gym my RHR changes and updates my recovery - don’t I want to go to the gym with the most updated information available? 
 
+### Recovery on iPhone different than on the watch
+First be aware that Apple Watch complications are only permitted by Apple to be updated 4 times per hour, so sometimes Recovery may not match on the iPhone’s Widget, App, and Apple Watch App’s complication if a recent HRV or RHR has been observed. 
+
+If you find that they are constantly different, look closely at the 60 day baseline HRV and RHR under recovery (the small number in parenthesis), now compare this to the same numbers on the Apple Watch under Recovery.  
+
+If they are different, this may be an iCloud or Background Task issue.  Because Apple limits queries on the Apple Watch to no more than 7 days, Athlytic uses a background task and iCloud to post the 60 day HRV and RHR baselines so the Watch App can read them.  To trouble shoot this issue try these steps: 
+
+(1) Go to Settings on the iPhone, then tap on your name at the top, then tap on iCloud and turn off iCloud for Athlytic, then turn it back on.  (It should always be turned on).  Then Power the watch down and on again.
+
+(2) If go back to Settings on the iPhone and then General then Background App Refresh, check that you have Background App Refresh turned on at the top, and then that Athlytic's switch turned on.
+
+
 ### Recovery High when Use the Breathe App
 Because the Apple Watch only gives us a few HRV samples during sleep, for a most accurate and consistent measure of Recovery we recommend that you use the Apple Watch’s Mindfulness App (formerly “Breathe App”) immediately upon waking (before picking up your iPhone and seeing any notifications (texts, emails etc.) so there are no external stressors).  During the Mindful Minute or however long you choose, most of the time the Apple Watch will also take a new HRV sample.  For reasons stated above, Athlytic will default to this single Mindfulness HRV to base Recovery on. See here for instructions on using the Mindfulness App <https://support.apple.com/en-us/HT212718>
 
