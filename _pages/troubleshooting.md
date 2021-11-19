@@ -160,5 +160,5 @@ You can double check whether your heart rate data is in Apple Health by going to
 ### How to make Garmin or Oura Ring sync to Apple Health
 Athlytic relies on integration with Apple Health, so primarily its going to work best on an Apple Watch, however we do have a few users who also use Garmin/Oura in addition to their Apple Watch and they have told me its kind of a hack but possible to push  the Garmin/Oura data to FitnessSyncer (another app) and then let FitnessSyncer write the workout to Apple Health.  I can’t attest to how well this works though.  I’m attaching a document a friend put together listing his steps to get Garmin to sync (as well as Oura).  Hope this helps! 
 
-If you're question isn't listed here, please email us at <athlytic@gmail.com>
+If your issue or question isn't listed here, please email us at <athlytic@gmail.com>
 
