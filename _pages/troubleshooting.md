@@ -76,6 +76,8 @@ Check that you do not have power save set to on (go to the Apple Watch app on th
 ### Exertion or Effort Too Low
 First check that your max heart rate is correct.  Athlytic will use your max heart rate from the last 30 days by default, but you can set a custom max in the More tab.  If your max is based on an anomalous HR (e.g. above 200 and your real max is 185) then your numbers might be skewing lower. 
 
+If that doesn't solve the issue are you using a 3rd party app or device other than the Apple Watch to track heart rate?  The problem with many third party apps/devices is that they don't write data correctly to Apple Health.  For example Garmin writes HR data every 2 minutes to Apple Health, and Polar every minute (contrast this with the Apple Watch which writes HR data almost every second during a workout.  You will either need to use your Apple Watch to track heart rate or try using an app like RunGap or FitnessSyncer to try and import these other apps/devices HR data into Apple Health.  
+
 ### Exertion or Effort Too High
 First check that your max heart rate is correct.  Athlytic will use your max heart rate from the last 30 days by default, but you can set a custom max in the More tab.  So if you haven't had a very high heart rate in the past 30 days, your max might be too low.  A good rule of thumb is 220 - age to start with.  Once you set your custom max, pull to refresh on any tab to refresh the data.  
 
@@ -153,7 +155,7 @@ To cancel your subscription go to the App Store App and tap on your profile on t
 Athlytic relies on data being saved to Apple Health, so it sounds like your Strava workouts are not being imported into Apple Health.  You can double check whether the workouts are there or not by going into the Apple Health App (White App Icon with Red Heart), then Browse -> Activity -> Workouts then scroll to the bottom and tap on show all data.  If the workouts are not listed here, there is no way Athlytic can pull them.  See here for how to get Strava to sync to Apple Health 👉 <https://support.strava.com/hc/en-us/articles/216917527-Health-App-and-Strava>.   
 
 ### Strava Via Run Gap Heart Rates Not Syncing to Apple Health
-Thanks for reaching out!  Athlytic relies on data being saved to Apple Health, so it sounds like your Strava Heart Rate data is not being imported into Apple Health.  If the data isn't being saved into Apple Health then Athlytic has no way to get it to use it.  See here for how to get Strava to sync to Apple Health 👉 <https://support.strava.com/hc/en-us/articles/216917527-Health-App-and-Strava>.  
+Athlytic relies on data being saved to Apple Health, so it sounds like your Strava Heart Rate data is not being imported into Apple Health.  If the data isn't being saved into Apple Health then Athlytic has no way to get it to use it.  See here for how to get Strava to sync to Apple Health 👉 <https://support.strava.com/hc/en-us/articles/216917527-Health-App-and-Strava>.  
 
 You can double check whether your heart rate data is in Apple Health by going to the Apple Health App (white icon with red heart) then tap on Browse then Heart Rate then scroll to the bottom and tap on show all data and see if they are there.  Again if they aren't present here then there isn't anything for Athlytic to read. If there is nothing else that works, anecdotally I have heard (from Garmin Users) that a 3rd party app FitnessSyncer might work to try and get the data sync'd I can't vouch for it though since I only use Apple Watch myself. 
 
