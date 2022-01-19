@@ -76,7 +76,10 @@ Check that you do not have power save set to on (go to the Apple Watch app on th
 ### Exertion or Effort Too Low
 First check that your max heart rate is correct.  Athlytic will use your max heart rate from the last 30 days by default, but you can set a custom max in the More tab.  If your max is based on an anomalous HR (e.g. above 200 and your real max is 185) then your numbers might be skewing lower. 
 
-If that doesn't solve the issue are you using a 3rd party app or device other than the Apple Watch to track heart rate?  The problem with many third party apps/devices is that they don't write data correctly to Apple Health.  For example Garmin writes HR data every 2 minutes to Apple Health, and Polar every minute (contrast this with the Apple Watch which writes HR data almost every second during a workout.  You will either need to use your Apple Watch to track heart rate or try using an app like RunGap or FitnessSyncer to try and import these other apps/devices HR data into Apple Health.  
+If that doesn't solve the issue are you using a 3rd party app or device other than the Apple Watch to track heart rate?  The problem with many third party apps/devices is that they don't write data correctly to Apple Health.  Your heart rates during a workout should look like the below (logged with an Apple Watch).  For example Garmin writes HR data every 2 minutes to Apple Health, and Polar every minute (contrast this with the Apple Watch which writes HR data almost every second during a workout.  You will either need to use your Apple Watch to track heart rate or try using an app like RunGap or FitnessSyncer to try and import these other apps/devices HR data into Apple Health.  
+
+![image](https://user-images.githubusercontent.com/78270566/150047554-23b2053a-9c31-4163-bf9f-e69083143400.png)
+
 
 ### Exertion or Effort Too High
 First check that your max heart rate is correct.  Athlytic will use your max heart rate from the last 30 days by default, but you can set a custom max in the More tab.  So if you haven't had a very high heart rate in the past 30 days, your max might be too low.  A good rule of thumb is 220 - age to start with.  Once you set your custom max, pull to refresh on any tab to refresh the data.  
