@@ -163,7 +163,7 @@ Athlytic relies on data being saved to Apple Health, so it sounds like your Stra
 You can double check whether your heart rate data is in Apple Health by going to the Apple Health App (white icon with red heart) then tap on Browse then Heart Rate then scroll to the bottom and tap on show all data and see if they are there.  Again if they aren't present here then there isn't anything for Athlytic to read. If there is nothing else that works, anecdotally I have heard (from Garmin Users) that a 3rd party app FitnessSyncer might work to try and get the data sync'd I can't vouch for it though since I only use Apple Watch myself. 
 
 ### How to make Garmin or Oura Ring sync to Apple Health
-Athlytic relies on integration with Apple Health, so primarily its going to work best on an Apple Watch, however we do have a few users who also use Garmin/Oura in addition to their Apple Watch and they have told me its kind of a hack but possible to push  the Garmin/Oura data to FitnessSyncer (another app) and then let FitnessSyncer write the workout to Apple Health.  I can’t attest to how well this works though.  I’m attaching a document a friend put together listing his steps to get Garmin to sync (as well as Oura).  Hope this helps! 
+Athlytic relies on integration with Apple Health, so primarily its going to work best on an Apple Watch, however we do have a few users who also use Garmin/Oura in addition to their Apple Watch and they have told me its kind of a hack but possible to push the Garmin/Oura data to RunGap or FitnessSyncer (3rd party apps) and then let then write the workout to Apple Health.  I can’t attest to how well this works though.
 
 If your issue or question isn't listed here, please email us at <athlytic@gmail.com>
 
