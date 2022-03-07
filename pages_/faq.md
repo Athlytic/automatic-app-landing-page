@@ -67,6 +67,18 @@ This usually occurs because you are using a 3rd party app or hardware device for
 
 ## Exertion/Effort
 
+### What is Exertion and What Affects It
+Exertion is measured on a 0-10 scale using your 30-day average max heart rate (or you can set a customized max heart rate) along with your 60-day average resting heart rate. Your body accumulates Exertion for time spent above a heart rate threshold that is personalized to you.
+
+Exertion is an indication of your cardiovascular load over a course of a day. There are many daily factors that can affect exertion other than just physical activity. These include but are not limited to stress, alcohol, your job, and even simple everyday tasks. So, yes, a long day can cause a higher Exertion, even if you have not worked out.
+
+Athlytic also suggests a Target Exertion Zone based on your Recovery.  Note however, that, unlike Apple's Move Goal, this is not something you need to consistently hit everyday.  The Target Exertion Zone is just a recommended Zone if you are training where it is likely safer to remain in.  Avoiding going over is more important than worrying about being below.  Note also that you can set a Training Goal in the More tab which will impact the bottom of the Target Exertion Zone.
+
+### What is Effort 
+Closely related to Exertion, Effort is a per workout measure of cardiovascular load during a workout.  The longer and more intense a workout is, the higher Effort will be.  Like Exertion, Effort is also based on your heart rate threshold that is personalized to you.
+ 
+Understand that Effort is only a measure of cardiovascular load, i.e. your heart rates during a workout.  So for example if you weightlifting without a cardio component and your heart rate is not elevated you may score a lower Effort even though you are lifting heavy weight.
+
 ### Exertion Complication Not Updating
 To save battery life, Apple limits apps to only being able to update complications 4 times per hour (or every 15 minutes).  Because of this, sometimes it is necessary to tap on the complication to open the app which will force a complication update.  You can see this same behavior with Apple’s Weather app where the temperature might not update until you tap on it.  However if you are noticing the complication isn’t updating even after an hour or so please let me know.  
 
@@ -78,16 +90,6 @@ First check that your max heart rate is correct.  Athlytic will use your max he
 
 ### Exertion or Effort Too High
 First check that your max heart rate is correct.  Athlytic will use your max heart rate from the last 30 days by default, but you can set a custom max in the More tab.  So if you haven't had a very high heart rate in the past 30 days, your max might be too low.  A good rule of thumb is 220 - age to start with.  Once you set your custom max, pull to refresh on any tab to refresh the data.  
-
-### What is Exertion and What Affects It
-Exertion is measured on a 0-10 scale using your 30-day average max heart rate (or you can set a customized max heart rate) along with your 60-day average resting heart rate. Your body accumulates Exertion for time spent above a heart rate threshold that is personalized to you.
-
-Exertion is an indication of your cardiovascular load over a course of a day. There are many daily factors that can affect exertion other than just physical activity. These include but are not limited to stress, alcohol, your job, and even simple everyday tasks. So, yes, a long day can cause a higher Exertion, even if you have not worked out.
-
-### What is Effort 
-Closely related to Exertion, Effort is a per workout measure of cardiovascular load during a workout.  The longer and more intense a workout is, the higher Effort will be.  Like Exertion, Effort is also based on your heart rate threshold that is personalized to you.
- 
-Understand that Effort is only a measure of cardiovascular load, i.e. your heart rates during a workout.  So for example if you weightlifting without a cardio component and your heart rate is not elevated you may score a lower Effort even though you are lifting heavy weight.
 
 ## Energy (Calories burned and consumed)
 
