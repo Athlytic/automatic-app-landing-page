@@ -9,20 +9,22 @@ Note that most of the time whether on iPhone or Apple Watch, force closing the a
 
 ## Recovery
 
-### Why does Recovery Change Often?
+### Why Hasn't Recovery updated since this morning?
 
-By default Athlytic has Sleep Prioritization turned to on (because we feel that sleep HRVs are more accurate than HRV taken during the day).  This means that if sleep is prioritized, your HRV used to calculate Recovery for today won’t change after you wake up, however Recovery may still update slightly based on daily resting heart rate samples the Apple Watch takes.  Also if you wake up and use the Breathe app to take an HRV, Athlytic will base Recovery only on this HRV (also because we feel these HRVs after just waking are most accurate).  If you want your Recovery to recalculate every time a new HRV sample is taken by the watch, you can go into the More tab and turn off sleep prioritization.  If you do not wear your watch to bed and there are no sleep HRVs from a given day, Athlytic will default to any HRV samples from that day, which can lead to wild fluctuations (and again why we prefer sleep HRVs).  
+Athlytic (and many others’) concept of Recovery is that it reads either your sleeping HRV or HRV derived from a morning Mindfulness Ap session along with Resting Heart Rate to give you a Recovery score for the day you should base your training on. (Note that because Apple updates RHR throughout the day you may see further adjustments in your Recovery score however usually they don’t swing as wildly given that RHR is a bit more stable than HRV)
 
-Side note:  something I do to monitor my HRV throughout the day is to enable the HRV complication on the watch (graphic rectangular).  That way I can always glance at my most up to date HRV, but it doesn’t affect Recovery.  👍 
+If you want your Recovery to update every time a new HRV sample is taken, then you would turn off sleep prioritization in the More tab. However studies have shown that waking HRV is less accurate to rely on given that it could be influenced by external stressors like work etc., so for this reason Athlytic ships with sleep prioritization turned on.
+
+So long story short, waking up and having 1 Recovery pretty similar throughout the day is expected behavior.
+
+### Why does Recovery Change Throughout the Day?
+Athlytic will use your your average sleeping HRV or an HRV that was sampled during a morning Mindfulness App Session for your Recovery each day.  However, Apple treats resting heart rate (RHR) differently.  The Apple Watch will save 1 single RHR each day and update it throughout the day (as opposed to saving multiple samples like it does with HRV, you can see this yourself by going into the Apple Health App then Browse then Heart).  Because of this there may be slight variations in Recovery throughout the day, e.g. you wake up and your RHR is 55, then at 2pm, it’s 53, Recovery will increase slightly.  To address this issue, Athlytic now can save its own RHR sample into Apple Health based on your average HR during sleep.  To enable this go into the More Tab and tap on Recovery Customization and turn on Enable Athlytic to Save Resting Heart Rates.  Provided you wear your watch to sleep, this will prevent Recovery from updating throughout the day.
 
 ### Recovery Always Seems Low
 First are you wearing your watch to bed or doing a Breathe App session immediately after waking? Remember Recovery is derived from your HRV and resting heart rate against your baseline of each.  So even though we may get a full night’s rest and feel great, if HRV and RHR are well below/above baseline then our body is signaling that it feels stressed, which might not be only from a hard workout but could be related to many things like alcohol from the previous night or just normal everyday life stress.   Also if you recently got your Apple Watch, then you don’t have a 60 day baseline of HRV and RHR data to compare against, so the more you wear your watch this will not be an issue. 
 
 ### Recovery says 0
 Check if you might not have an HRV reading from the past day.  You can see your HRV samples by going into the Apple Health App (white icon with a heart) then Browse -> Heart Rate Variability -> scroll to the bottom and tap on Show All Data, and see if you have an HRV from today. 
-
-### Why does Recovery Change Throughout the Day?
-Athlytic will use your your average sleeping HRV or an HRV that was sampled during a morning Breathe App Session for your Recovery each day.  However, Apple treats resting heart rate (RHR) differently.  The Apple Watch will save 1 single RHR each day and update it throughout the day (as opposed to saving multiple samples like it does with HRV, you can see this yourself by going into the Apple Health App then Browse then Heart).  Because of this there may be slight variations in Recovery throughout the day, e.g. you wake up and your RHR is 55, then at 2pm, it’s 53, Recovery will increase slightly.  Most of the time our RHR values do not change too dramatically to make a large difference in Recovery.  There has been some discussion in our Athlytic community and whether Athlytic should for example just calculate it’s own RHR, e.g. during sleep.  I am against this for a few reasons (1) I’m sure Apple being the largest company in the world has good technology based on what they think your RHR is, I also think users would be confused why Apple Health said their RHR was different than Athlytic.  More importantly (2) I personally feel that if I wake up and my Recovery is set, but then right before the gym my RHR changes and updates my recovery - don’t I want to go to the gym with the most updated information available? 
 
 ### Recovery on iPhone different than on the watch
 First be aware that Apple Watch complications are only permitted by Apple to be updated 4 times per hour, so sometimes Recovery may not match on the iPhone’s Widget, App, and Apple Watch App’s complication if a recent HRV or RHR has been observed. 
@@ -42,6 +44,8 @@ Because the Apple Watch only gives us a few HRV samples during sleep, for a most
 However when you use the Mindfulness App you will notice that the app prompts you to breathe very deeply in and out.  We recommend that you do not follow the app’s prompting and just breathe normally.  The reason for this is what while breath work has been shown to improve HRV, when you are essentially doing this same breath work while trying to sample your HRV (and measure the state of your CNS) you are sort of “hacking” your HRV to be higher than it might otherwise be if you breathe normally.  If you just breathe normally as you would,  your resulting HRV sample should be much within range of your normal ranges.  Note that it can be difficult to ignore the Mindfulness App’s haptics, so we also recommend that you go into the Apple Watch app on your iPhone, then find the Mindfulness App, scroll to the bottom and set Haptics to “None.”
 
 We also recommend that you are consistent with whether you chose to (1) do a morning Mindfulness Session every morning for your daily Recovery HRV or (2) you wear your watch to bed and  let Athlytic use your sleeping HRV for Recovery.  The reason for this is typically, even when breathing normally, HRV during the Mindfulness Session is likely going to be higher than the average of your sleeping HRV.  So to compare apples to apples, it is best to have a 60 day baseline of the same type of HRV.  
+
+On last tip, to remind yourself to perform Mindfulness in the morning, open the Watch app on your iPhone and go to Mindfulness. Select Allow Notifications, and then, under Mindfulness Reminders, enable Start of Day. You can also tap Add Reminder to set a custom time.
 
 ### Recovery is high but my muscles are sore and I feel tired 
 Recovery in Athlytic is 100% physiological based on your HRV and resting heart rate.  Athlytic does not use sleep to factor into Recovery.  The reason for this is that even if you were to get only 5 hours of sleep last night, if your body is signaling that is has fully recovered from yesterday’s workout, we don’t feel we should artificially reduce recovery just because you didn’t sleep well.  Recovery cannot however factor in soreness from a workout.  At this point there is simply no good technical way to measure muscle soreness from your wrist.  So our best advice is always listen to your body first when deciding how to train and then use a Recovery tool like Athlytic.
@@ -67,6 +71,18 @@ This usually occurs because you are using a 3rd party app or hardware device for
 
 ## Exertion/Effort
 
+### What is Exertion and What Affects It
+Exertion is measured on a 0-10 scale using your 30-day average max heart rate (or you can set a customized max heart rate) along with your 60-day average resting heart rate. Your body accumulates Exertion for time spent above a heart rate threshold that is personalized to you.
+
+Exertion is an indication of your cardiovascular load over a course of a day. There are many daily factors that can affect exertion other than just physical activity. These include but are not limited to stress, alcohol, your job, and even simple everyday tasks. So, yes, a long day can cause a higher Exertion, even if you have not worked out.
+
+Athlytic also suggests a Target Exertion Zone based on your Recovery.  Note however, that, unlike Apple's Move Goal, this is not something you need to consistently hit everyday.  The Target Exertion Zone is just a recommended Zone if you are training where it is likely safer to remain in.  Avoiding going over is more important than worrying about being below.  Note also that you can set a Training Goal in the More tab which will impact the bottom of the Target Exertion Zone.
+
+### What is Effort 
+Closely related to Exertion, Effort is a per workout measure of cardiovascular load during a workout.  The longer and more intense a workout is, the higher Effort will be.  Like Exertion, Effort is also based on your heart rate threshold that is personalized to you.
+ 
+Understand that Effort is only a measure of cardiovascular load, i.e. your heart rates during a workout.  So for example if you weightlifting without a cardio component and your heart rate is not elevated you may score a lower Effort even though you are lifting heavy weight.
+
 ### Exertion Complication Not Updating
 To save battery life, Apple limits apps to only being able to update complications 4 times per hour (or every 15 minutes).  Because of this, sometimes it is necessary to tap on the complication to open the app which will force a complication update.  You can see this same behavior with Apple’s Weather app where the temperature might not update until you tap on it.  However if you are noticing the complication isn’t updating even after an hour or so please let me know.  
 
@@ -83,16 +99,6 @@ If that doesn't solve the issue are you using a 3rd party app or device other th
 
 ### Exertion or Effort Too High
 First check that your max heart rate is correct.  Athlytic will use your max heart rate from the last 30 days by default, but you can set a custom max in the More tab.  So if you haven't had a very high heart rate in the past 30 days, your max might be too low.  A good rule of thumb is 220 - age to start with.  Once you set your custom max, pull to refresh on any tab to refresh the data.  
-
-### What is Exertion and What Affects It
-Exertion is measured on a 0-10 scale using your 30-day average max heart rate (or you can set a customized max heart rate) along with your 60-day average resting heart rate. Your body accumulates Exertion for time spent above a heart rate threshold that is personalized to you.
-
-Exertion is an indication of your cardiovascular load over a course of a day. There are many daily factors that can affect exertion other than just physical activity. These include but are not limited to stress, alcohol, your job, and even simple everyday tasks. So, yes, a long day can cause a higher Exertion, even if you have not worked out.
-
-### What is Effort 
-Closely related to Exertion, Effort is a per workout measure of cardiovascular load during a workout.  The longer and more intense a workout is, the higher Effort will be.  Like Exertion, Effort is also based on your heart rate threshold that is personalized to you.
- 
-Understand that Effort is only a measure of cardiovascular load, i.e. your heart rates during a workout.  So for example if you weightlifting without a cardio component and your heart rate is not elevated you may score a lower Effort even though you are lifting heavy weight.
 
 ## Energy (Calories burned and consumed)
 
