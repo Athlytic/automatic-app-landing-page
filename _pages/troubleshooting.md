@@ -13,7 +13,7 @@ Note that most of the time whether on iPhone or Apple Watch, force closing the a
 
 Athlytic (and many others’) concept of Recovery is that it reads either your sleeping HRV or HRV derived from a morning Mindfulness Ap session along with Resting Heart Rate to give you a Recovery score for the day you should base your training on. (Note that because Apple updates RHR throughout the day you may see further adjustments in your Recovery score however usually they don’t swing as wildly given that RHR is a bit more stable than HRV)
 
-If you want your Recovery to update every time a new HRV sample is taken, then you would turn off sleep prioritization in the More tab. However studies have shown that waking HRV is less accurate to rely on given that it could be influenced by external stressors like work etc., so for this reason Athlytic ships with sleep prioritization turned on.
+If you want your Recovery to update every time a new HRV sample is taken, then you would turn off sleep prioritization in Settings. However studies have shown that waking HRV is less accurate to rely on given that it could be influenced by external stressors like work etc., so for this reason Athlytic ships with sleep prioritization turned on.
 
 So long story short, waking up and having 1 Recovery pretty similar throughout the day is expected behavior.
 
@@ -60,14 +60,14 @@ Athlytic reads sleep data that was saved by either your Apple Watch or another a
 
 To double check whether you are getting sleep data at all, go into the Apple Health App (white icon with a heart) then tap browse, then sleep and see if you have any data there. Make sure you see both “in bed” (saved by the iPhone) and “asleep” samples (saved by the Apple Watch) in the Health App, both of which Athlytic relies on for its Sleep tab.   
 
-If you don’t see Asleep samples then your Apple Watch still isn’t set up properly to track your sleep and you need to set it up (see here: <https://support.apple.com/guide/watch/sleep-apd830528336/watchos>) or use another app like Pillow to track.  If you use another app or device other than native Apple Watch Sleep Tracking, you can select it as your preferred sleep tracker in the More tab in Athlytic.  If it is not listed please let me know.  Selecting the app you use as your preferred sleep tracker usually fixes issues like seeing duplicate sleep data - however I have also seen apps like Pillow save duplicate sleep samples which uninstalling and reinstalling the app usually fixes.   
+If you don’t see Asleep samples then your Apple Watch still isn’t set up properly to track your sleep and you need to set it up (see here: <https://support.apple.com/guide/watch/sleep-apd830528336/watchos>) or use another app like Pillow to track.  If you use another app or device other than native Apple Watch Sleep Tracking, you can select it as your preferred sleep tracker in Settings in Athlytic.  If it is not listed please let me know.  Selecting the app you use as your preferred sleep tracker usually fixes issues like seeing duplicate sleep data - however I have also seen apps like Pillow save duplicate sleep samples which uninstalling and reinstalling the app usually fixes.   
 
 If you do see both asleep and in bed samples in the Health App, then it might be something else so please screen shot and email me what the asleep samples look like in Apple Health so that I can see the “source” listed.  
 
 Ps if you are having trouble getting the Apple Watch’s native sleep tracking to track your sleep correctly, this has been my routine and seems to work well (1) I do have a sleep schedule set for everyday that is around the time i normally go to bed and wake up (2) if i go to bed earlier I will toggle sleep mode on, on my watch (3) as soon as I wake up in the am, usually before my sleep end/alarm time, i open my iPhone and go to the controls screen and turn off sleep mode on it.  This has consistently worked for me counting my sleep correctly. 
 
 ### Double Counting Sleep?
-This usually occurs because you are using a 3rd party app or hardware device for sleep tracking, and the app or device writes duplicate sleep data into Apple Health.  Try going into the More tab and setting your preferred Sleep Tracker, then go back to the sleep tab and pull down to refresh.  Please let us know if this does not fix this issue or if you are using another 3rd party app or device that is not listed.  If it doesn’t fix the issue, we may need to dig a little deeper to diagnose why your sleep is being double counted. 
+This usually occurs because you are using a 3rd party app or hardware device for sleep tracking, and the app or device writes duplicate sleep data into Apple Health.  Try going into Settings and setting your preferred Sleep Tracker, then go back to the sleep tab and pull down to refresh.  Please let us know if this does not fix this issue or if you are using another 3rd party app or device that is not listed.  If it doesn’t fix the issue, we may need to dig a little deeper to diagnose why your sleep is being double counted. 
 
 ## Exertion/Effort
 
@@ -76,7 +76,7 @@ Exertion is measured on a 0-10 scale using your 30-day average max heart rate (o
 
 Exertion is an indication of your cardiovascular load over a course of a day. There are many daily factors that can affect exertion other than just physical activity. These include but are not limited to stress, alcohol, your job, and even simple everyday tasks. So, yes, a long day can cause a higher Exertion, even if you have not worked out.
 
-Athlytic also suggests a Target Exertion Zone based on your Recovery.  Note however, that, unlike Apple's Move Goal, this is not something you need to consistently hit everyday.  The Target Exertion Zone is just a recommended Zone if you are training where it is likely safer to remain in.  Avoiding going over is more important than worrying about being below.  Note also that you can set a Training Goal in the More tab which will impact the bottom of the Target Exertion Zone.
+Athlytic also suggests a Target Exertion Zone based on your Recovery.  Note however, that, unlike Apple's Move Goal, this is not something you need to consistently hit everyday.  The Target Exertion Zone is just a recommended Zone if you are training where it is likely safer to remain in.  Avoiding going over is more important than worrying about being below.  Note also that you can set a Training Goal in Settings which will impact the bottom of the Target Exertion Zone.
 
 ### What is Effort 
 Closely related to Exertion, Effort is a per workout measure of cardiovascular load during a workout.  The longer and more intense a workout is, the higher Effort will be.  Like Exertion, Effort is also based on your heart rate threshold that is personalized to you.
@@ -90,7 +90,7 @@ To save battery life, Apple limits apps to only being able to update complicatio
 Check that you do not have power save set to on (go to the Apple Watch app on the iPhone (black icon), then general, then look for Workout Power Saving Mode).  When you turn power save on, it will disable the heart rate sensor from reading.  I personally somehow set this to on by accident and couldn’t figure out why I was only getting 3 or 4 heart rate samples per workout until I figured it out and turned it off and all is good.   If that doesn’t solve it, it might be something else so please let me know. 
 
 ### Exertion or Effort Too Low
-First check that your max heart rate is correct.  Athlytic will use your max heart rate from the last 30 days by default, but you can set a custom max in the More tab.  If your max is based on an anomalous HR (e.g. above 200 and your real max is 185) then your numbers might be skewing lower. 
+First check that your max heart rate is correct.  Athlytic will use your max heart rate from the last 30 days by default, but you can set a custom max in Settings.  If your max is based on an anomalous HR (e.g. above 200 and your real max is 185) then your numbers might be skewing lower. 
 
 If that doesn't solve the issue are you using a 3rd party app or device other than the Apple Watch to track heart rate?  The problem with many third party apps/devices is that they don't write data correctly to Apple Health.  Your heart rates during a workout should look like the below (logged with an Apple Watch).  For example Garmin writes HR data every 2 minutes to Apple Health, and Polar every minute (contrast this with the Apple Watch which writes HR data almost every second during a workout.  You will either need to use your Apple Watch to track heart rate or try using an app like RunGap or FitnessSyncer to try and import these other apps/devices HR data into Apple Health.  
 
@@ -98,7 +98,7 @@ If that doesn't solve the issue are you using a 3rd party app or device other th
 
 
 ### Exertion or Effort Too High
-First check that your max heart rate is correct.  Athlytic will use your max heart rate from the last 30 days by default, but you can set a custom max in the More tab.  So if you haven't had a very high heart rate in the past 30 days, your max might be too low.  A good rule of thumb is 220 - age to start with.  Once you set your custom max, pull to refresh on any tab to refresh the data.  
+First check that your max heart rate is correct.  Athlytic will use your max heart rate from the last 30 days by default, but you can set a custom max in Settings.  So if you haven't had a very high heart rate in the past 30 days, your max might be too low.  A good rule of thumb is 220 - age to start with.  Once you set your custom max, pull to refresh on any tab to refresh the data.  
 
 ## Energy (Calories burned and consumed)
 
